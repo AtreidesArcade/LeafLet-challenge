@@ -16,6 +16,7 @@ body {
 
 #map {
   height: 90%;
+  align-content: center;
 }
 
 body {

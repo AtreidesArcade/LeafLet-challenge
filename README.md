@@ -65,18 +65,3 @@ In this step, you will:
 * Add a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 
 * Add layer controls to our map.
-
-- - -
-
-### Assessment
-
-Your final product will be assessed according to [this grading rubric](Leaflet_Grading_Rubric.pdf)
-
-**Good luck!**
-
-## Rubric
-
-[Unit 15 Rubric - Leaflet Homework - Visualizing Data with Leaflet](https://docs.google.com/document/d/1kDNeT4a54ik_AZrHYN3LmVMqH0hDuiwbK2h5lHNxumQ/edit?usp=sharing)
-
-___
-© 2021  Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
