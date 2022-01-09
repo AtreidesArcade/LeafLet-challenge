@@ -131,8 +131,7 @@ function createMap(earthquakes, tectonicplates) {
       }
     }
   
-    // This function determines the radius of the earthquake marker based on its magnitude.
-    // Earthquakes with a magnitude of 0 were being plotted with the wrong radius.
+    // This function determines the radius of the earthquake based on magnitude
     function getRadius(magnitude) {
       if (magnitude === 0) {
         return 1;
